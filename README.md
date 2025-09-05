@@ -4,8 +4,6 @@ List of companies in Munich & Region using Elixir, Erlang, Gleam and/or other BE
 
 ---
 
-## Companies
-
 | Company | Languages |
 | --- | --- |
 | [Dipl.Phys. Peer Stritzinger GmbH](https://stritzinger.com/) | Erlang, Elixir |
