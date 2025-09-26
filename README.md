@@ -12,3 +12,4 @@ List of companies in Munich & Region using Elixir, Erlang, Gleam and/or other BE
 | [Entelios AG](https://www.entelios.de/) | Elixir |
 | [JobRad® Loop](https://www.jobradloop.com/) | Elixir |
 | [PATOffice](https://www.patoffice.de/) | Elixir |
+| [Schleibinger Geräte GmbH](https://www.schleibinger.com/) | Erlang |
