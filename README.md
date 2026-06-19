@@ -1,4 +1,4 @@
-# Elixir Companies in Munich & Region
+# Elixir, Erlang & Gleam Companies in Munich & Region
 
 List of companies in Munich & Region using Elixir, Erlang, Gleam and/or other BEAM languages.
 
