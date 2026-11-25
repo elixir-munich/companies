@@ -14,3 +14,5 @@ List of companies in Munich & Region using Elixir, Erlang, Gleam and/or other BE
 | [PATOffice](https://www.patoffice.de/) | Elixir |
 | [Schleibinger Geräte GmbH](https://www.schleibinger.com/) | Erlang |
 | [Box ID Software GmbH](https://box-id.com) | Elixir |
+| [Octoscreen](https://octoscreen.de) | Elixir |
+| [Shore](https://shore.com) | Elixir |
